@@ -18,6 +18,12 @@
   color: blue;
 }
 
+.third {
+  background-color: green;
+  color: red;
+  text-align: left;
+}
+
 img {
   width: 500px;
 }
