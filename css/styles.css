@@ -24,6 +24,14 @@
   text-align: left;
 }
 
+.about {
+  background-color: lightblue;
+  color: orange;
+  text-align: center;
+  font-style: italic;
+  font-family: fantasy;
+}
+
 img {
   width: 500px;
 }
